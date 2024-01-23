@@ -1,2 +1,5 @@
 # ColomboIT_Simple_HR_System
-I Have make this code my OOP assignment in campus. It is Java NetBeans project. in this code have clearly visible some required OOP concepts for the assignment. And also inside the project file have Code package, inf package and img package. in that packages have required all files.   
+I Have made this code my OOP assignment on campus. It is a Java NetBeans project. this code shows some required OOP concepts for the assignment. And also inside the project file have Code package, inf package and img package. in that packages have required all files.   
+
+this repository have only packages you can download the full version below the drive link:
+https://drive.google.com/file/d/1sRsRKgWKkaxIiXnfQrVWu-3iiphQMVsl/view?usp=sharing
